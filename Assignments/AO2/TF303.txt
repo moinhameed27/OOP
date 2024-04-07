@@ -1,0 +1,45 @@
+Muhammad Ali
+M
+28
+PK7890123
+Pakistan
+TL101-14
+700
+1
+14
+Elena Petrova
+F
+36
+RU1234567
+Russia
+TL101-42
+1400
+2
+42
+Ahmed Khan
+M
+30
+PK8901234
+Pakistan
+TL101-78
+2800
+3
+78
+Isabella Rossi
+F
+33
+IT2345678
+Italy
+TL101-101
+5600
+4
+101
+Carlos Hernandez
+M
+35
+ES2345678
+Spain
+TL101-62
+1400
+2
+62

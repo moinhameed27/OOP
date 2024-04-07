@@ -1,0 +1,45 @@
+Ali Khan
+M
+32
+PK7654321
+Pakistan
+TL101-58
+500
+2
+58
+Sofia Lopez
+F
+28
+ES1234567
+Spain
+TL101-72
+1000
+3
+72
+Amir Choudhry
+M
+40
+PK8765432
+Pakistan
+TL101-5
+250
+1
+5
+Emma Smith
+F
+26
+US7890123
+United States
+TL101-99
+2000
+4
+99
+Abdullah Khan
+M
+23
+PK9876543
+Pakistan
+TL101-81
+1000
+3
+81
