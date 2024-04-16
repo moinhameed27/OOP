@@ -75,7 +75,7 @@ public:
     {
         for (int i = 0; i < pageCount; i++)
             delete[] contents[i];
-        delete contents;
+        delete[] contents;
         contents = nullptr;
     }
 };
