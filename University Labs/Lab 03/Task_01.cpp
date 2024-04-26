@@ -9,7 +9,7 @@ class Student
 {
     double cgpa;
     string name;
-    int rollNo;
+    int rollNo; 
     int noOfTests;
     int *testScores;
     double average;
