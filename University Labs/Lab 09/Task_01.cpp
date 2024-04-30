@@ -5,7 +5,7 @@ using namespace std;
 int numberValidation(int &);
 double numberValidation(double &);
 
-class Employee
+class Employee 
 {
     char name[50];
     int number;
